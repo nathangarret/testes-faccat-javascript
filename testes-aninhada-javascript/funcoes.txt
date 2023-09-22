@@ -1,0 +1,7 @@
+// Math.max() => pega o número maior numero dentro dos ();
+
+// A função .sort() => é usada para ordenar os valores em ordem crescente.
+
+// .join(", ") -> [separador] = "1, 2, 3,";
+
+// Testes em JS

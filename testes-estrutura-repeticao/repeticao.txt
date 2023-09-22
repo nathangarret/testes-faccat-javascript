@@ -1,0 +1,14 @@
+
+// for - while - do while - 
+
+/* 
+do{
+    numeroDois = parseInt(entrada("Informe o número (B) sendo ele maior do que 0: "));
+}while(numeroDois <= 0);
+*/
+
+/* 
+while(numeroDois <= 0){
+    numeroDois = parseInt(entrada("Informe o número (B) sendo ele maior do que 0: "));
+} 
+*/
